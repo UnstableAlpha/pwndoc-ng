@@ -53,10 +53,9 @@
     "yjs": "^13.6.23"
   },
   "devDependencies": {
-    "@quasar/app-webpack": "^3.15.1",
+    "@quasar/app-webpack": "^4.3.0",
     "@quasar/cli": "^2.4.1",
     "buffer": "^6.0.3",
-    "devtron": "^1.4.0",
     "electron": "^34.2.0",
     "electron-debug": "^1.5.0",
     "electron-devtools-installer": "^2.2.4",
